@@ -1,0 +1,7 @@
+{
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "overwrite": false
+  },
+  "viewportWidth": 1440
+}
